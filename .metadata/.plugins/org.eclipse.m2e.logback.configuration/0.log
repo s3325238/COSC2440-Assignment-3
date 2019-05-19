@@ -1,0 +1,196 @@
+2019-04-17 12:56:32,468 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-17 12:58:47,551 [Worker-10: Creating project "SpringRestfullWebService"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring_hibernate_api:SpringRestfullWebService:0.0.1-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/SpringRestfullWebService/pom.xml.
+2019-04-17 12:58:48,716 [Worker-10: Creating project "SpringRestfullWebService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestfullWebService/src/main/java
+2019-04-17 12:58:48,719 [Worker-10: Creating project "SpringRestfullWebService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestfullWebService/src/main/resources
+2019-04-17 12:58:48,720 [Worker-10: Creating project "SpringRestfullWebService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestfullWebService/src/test/java
+2019-04-17 12:58:48,720 [Worker-10: Creating project "SpringRestfullWebService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestfullWebService/src/test/resources
+2019-04-17 12:58:52,473 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:58:52,510 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:58:52,522 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:58:52,524 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:58:52,719 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:58:52,723 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:58:52,725 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:58:52,727 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:59:28,058 [Worker-2: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring_hibernate_api:SpringRestfullWebService:0.0.1-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/SpringRestfullWebService/pom.xml.
+2019-04-17 12:59:28,894 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:28,898 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:59:28,901 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:28,902 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:59:28,903 [Worker-2: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfullWebService
+2019-04-17 12:59:28,907 [Worker-2: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfullWebService
+2019-04-17 12:59:28,914 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:44,340 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring_hibernate_api:SpringRestfullWebService:0.0.1-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/SpringRestfullWebService/pom.xml.
+2019-04-17 12:59:45,118 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:45,124 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:59:45,137 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:45,139 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:59:45,140 [Worker-12: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfullWebService
+2019-04-17 12:59:45,141 [Worker-12: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfullWebService
+2019-04-17 12:59:45,149 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:46,301 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring_hibernate_api:SpringRestfullWebService:0.0.1-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/SpringRestfullWebService/pom.xml.
+2019-04-17 12:59:47,273 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:47,276 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:59:47,279 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 12:59:47,281 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 12:59:47,281 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfullWebService
+2019-04-17 12:59:47,281 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfullWebService
+2019-04-17 12:59:47,288 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:00:03,166 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring_hibernate_api:SpringRestfullWebService:0.0.1-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/SpringRestfullWebService/pom.xml.
+2019-04-17 13:00:03,837 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:00:03,840 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:00:03,843 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:00:03,844 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:00:03,845 [Worker-5: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfullWebService
+2019-04-17 13:00:03,845 [Worker-5: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfullWebService
+2019-04-17 13:00:03,852 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:01:29,483 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:01:29,541 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:01:29,543 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:01:29,545 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:01:37,518 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:01:37,519 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:01:37,521 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:01:37,522 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:01:38,558 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:01:38,559 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:01:38,560 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:01:38,562 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:02:33,769 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:02:33,771 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:02:33,772 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:02:33,773 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:02:56,824 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:02:56,826 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:02:56,828 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:02:56,830 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:04:15,898 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:04:15,900 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:04:15,902 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:04:15,903 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:04:34,506 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:04:34,507 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:04:34,509 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:04:34,510 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:04:37,115 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:04:37,116 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:04:37,118 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:04:37,119 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:05:26,880 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:05:26,883 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:05:26,885 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:05:26,886 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:06:29,348 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:06:29,350 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:06:29,352 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:06:29,353 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:07:17,342 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:07:17,345 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:07:17,347 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:07:17,349 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:07:49,540 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:07:49,542 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:07:49,543 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:07:49,544 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:08:10,629 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:08:10,632 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:08:10,634 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:08:10,635 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:57:36,463 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-17 13:57:40,323 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:57:40,345 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:57:40,349 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:57:40,351 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:57:43,366 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring_hibernate_api:SpringRestfullWebService:0.0.1-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/SpringRestfullWebService/pom.xml.
+2019-04-17 13:57:44,601 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:57:44,604 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:57:44,608 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:57:44,609 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:57:44,613 [Worker-1: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfullWebService
+2019-04-17 13:57:44,614 [Worker-1: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfullWebService
+2019-04-17 13:57:44,621 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:57:45,112 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:57:45,115 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:57:45,117 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:57:45,118 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:59:03,384 [Worker-9: Launching Executing clean in _Users_tringuyen_Desktop_final_api_SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/SpringRestfullWebService
+2019-04-17 13:59:03,386 [Worker-9: Launching Executing clean in _Users_tringuyen_Desktop_final_api_SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-04-17 13:59:07,283 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:59:07,285 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:59:07,287 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:59:07,290 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:59:07,291 [Worker-4: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfullWebService
+2019-04-17 13:59:07,291 [Worker-4: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfullWebService
+2019-04-17 13:59:07,302 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:59:14,445 [Worker-8: Launching Executing install in _Users_tringuyen_Desktop_final_api_SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/SpringRestfullWebService
+2019-04-17 13:59:14,445 [Worker-8: Launching Executing install in _Users_tringuyen_Desktop_final_api_SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-17 13:59:20,112 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:59:20,115 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 13:59:20,118 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 13:59:20,119 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 14:01:49,149 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.pom
+2019-04-17 14:01:49,757 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.pom
+2019-04-17 14:01:50,056 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.jar
+2019-04-17 14:01:50,884 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.2/maven-war-plugin-3.2.2.jar
+2019-04-17 14:02:22,509 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring_hibernate_api:SpringRestfullWebService:0.0.1-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/SpringRestfullWebService/pom.xml.
+2019-04-17 14:02:23,531 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 14:02:23,534 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 14:02:23,538 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 14:02:23,541 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 14:02:23,564 [Worker-5: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfullWebService
+2019-04-17 14:02:23,565 [Worker-5: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfullWebService
+2019-04-17 14:02:23,580 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 14:02:34,056 [Worker-9: Launching Executing install in _Users_tringuyen_Desktop_final_api_SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/SpringRestfullWebService
+2019-04-17 14:02:34,057 [Worker-9: Launching Executing install in _Users_tringuyen_Desktop_final_api_SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-17 14:02:39,520 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 14:02:39,530 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 14:02:39,532 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 14:02:39,535 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 14:07:37,967 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 14:07:37,974 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 14:07:37,977 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 14:07:37,979 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 14:07:57,085 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-04-17 14:08:00,709 [Worker-9: Launching SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/SpringRestfullWebService
+2019-04-17 14:08:00,710 [Worker-9: Launching SpringRestfullWebService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-05-08 17:06:30,582 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-08 17:07:09,727 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sadi:HelloHibernateSpringMVC:1.0-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/pom.xml.
+2019-05-08 17:07:10,919 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /s3325238-cosc2440-assignment-2/src/main/java
+2019-05-08 17:07:10,919 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /s3325238-cosc2440-assignment-2/src/test/java
+2019-05-08 17:07:11,290 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-05-08 17:07:14,180 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:07:14,183 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/main/resources
+2019-05-08 17:07:14,187 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:07:14,190 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/test/resources
+2019-05-08 17:07:19,302 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-05-08 17:07:19,737 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sadi:HelloHibernateSpringMVC:1.0-SNAPSHOT @ /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/pom.xml.
+2019-05-08 17:07:20,045 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /s3325238-cosc2440-assignment-2/src/main/java
+2019-05-08 17:07:20,045 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /s3325238-cosc2440-assignment-2/src/test/java
+2019-05-08 17:07:20,333 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-05-08 17:07:20,829 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:07:20,831 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/main/resources
+2019-05-08 17:07:20,833 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:07:20,833 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/test/resources
+2019-05-08 17:07:33,364 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-05-08 17:07:47,559 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-05-08 17:07:54,592 [Worker-3: Launching s3325238-cosc2440-assignment-2 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2
+2019-05-08 17:07:54,594 [Worker-3: Launching s3325238-cosc2440-assignment-2 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B mvn run
+2019-05-08 17:09:47,931 [Worker-9: Launching s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2
+2019-05-08 17:09:47,933 [Worker-9: Launching s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install run
+2019-05-08 17:10:03,554 [Worker-9: Launching Executing clean in _Users_tringuyen_Desktop_final_api_s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2
+2019-05-08 17:10:03,555 [Worker-9: Launching Executing clean in _Users_tringuyen_Desktop_final_api_s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-05-08 17:10:05,828 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:10:05,838 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/main/resources
+2019-05-08 17:10:05,843 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:10:05,844 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/test/resources
+2019-05-08 17:10:11,594 [Worker-6: Launching Executing install in _Users_tringuyen_Desktop_final_api_s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2
+2019-05-08 17:10:11,594 [Worker-6: Launching Executing install in _Users_tringuyen_Desktop_final_api_s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-05-08 17:10:16,747 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:10:16,748 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/main/resources
+2019-05-08 17:10:16,750 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-08 17:10:16,753 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2/src/test/resources
+2019-05-08 17:10:21,764 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-05-08 17:10:27,071 [Worker-9: Launching s3325238-cosc2440-assignment-2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2
+2019-05-08 17:10:27,072 [Worker-9: Launching s3325238-cosc2440-assignment-2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B mvn:run
+2019-05-08 17:11:17,501 [Worker-11: Launching s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tringuyen/Desktop/final_api/s3325238-cosc2440-assignment-2
+2019-05-08 17:11:17,501 [Worker-11: Launching s3325238-cosc2440-assignment-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run

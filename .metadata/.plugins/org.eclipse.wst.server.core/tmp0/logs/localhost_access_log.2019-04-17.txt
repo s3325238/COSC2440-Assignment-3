@@ -1,0 +1,6 @@
+127.0.0.1 - - [17/Apr/2019:14:05:51 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:14:06:27 +0700] "GET /SpringRestfullRestService/user HTTP/1.1" 404 1108
+127.0.0.1 - - [17/Apr/2019:14:08:23 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:14:08:24 +0700] "GET /SpringRestfullWebService/ HTTP/1.1" 404 1103
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:14:08:31 +0700] "GET /SpringRestfullRestService/user HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:14:08:36 +0700] "GET /SpringRestfullRestService/user/ HTTP/1.1" 404 1113
